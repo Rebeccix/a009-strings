@@ -1,4 +1,4 @@
-# Exercício 3
+    # Exercício 3
 
 A partir da frase a seguir, faça o que se pede
 
